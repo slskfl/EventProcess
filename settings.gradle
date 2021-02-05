@@ -1,2 +1,3 @@
+include ':orientationeventex'
 include ':app'
 rootProject.name = "EventProcess"
